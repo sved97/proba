@@ -1,0 +1,19 @@
+img {
+  height: 237px;
+  width: 100%;
+}
+p.oglasi {
+    border: 2px solid #1B3280;
+    border-radius: 10px;
+    background-color: #FFCC33;
+    width: 466px;
+    font-family: arial;
+ 
+}
+
+#lista {
+    margin-left: 30%;
+}
+#header {
+    height: 237px;
+}
